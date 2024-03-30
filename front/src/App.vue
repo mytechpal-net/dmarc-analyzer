@@ -11,9 +11,9 @@ export default {
   <AppNav />
   <main>
     <div class="flex justify-center">
-      <container class="prose">
+      <div class="container prose">
         <RouterView />
-      </container>
+      </div>
     </div>
   </main>
 </template>
